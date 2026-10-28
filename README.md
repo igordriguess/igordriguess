@@ -127,16 +127,16 @@ A personal finance project focused on organizing financial information and integ
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=igordriguess&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=igordriguess&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Statistics" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=igordriguess&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=igordriguess&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=igordriguess&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
