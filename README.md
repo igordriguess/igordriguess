@@ -135,16 +135,6 @@ A personal finance project focused on organizing financial information and integ
   <img width="70%" src="https://streak-stats.demolab.com?user=igordriguess&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/igordriguess">
-    <img
-      src="https://ghchart.rshah.org/38BDF8/igordriguess"
-      alt="GitHub Contribution Activity"
-      width="98%"
-    />
-  </a>
-</p>
-
 ---
 
 ## 🎯 What I Believe In
