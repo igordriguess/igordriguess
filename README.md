@@ -127,16 +127,16 @@ A personal finance project focused on organizing financial information and integ
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=igordriguess&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordriguess&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=igordriguess&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=igordriguess&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=igordriguess&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=igordriguess&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igordriguess&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=igordriguess&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
 </p>
 
 ---
