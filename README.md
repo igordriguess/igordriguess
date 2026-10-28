@@ -136,7 +136,13 @@ A personal finance project focused on organizing financial information and integ
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=igordriguess&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
+  <a href="https://github.com/igordriguess">
+    <img
+      src="https://ghchart.rshah.org/38BDF8/igordriguess"
+      alt="GitHub Contribution Activity"
+      width="98%"
+    />
+  </a>
 </p>
 
 ---
